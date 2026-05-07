@@ -1,4 +1,4 @@
-# LED-Temp-Humidity-Lamp (Temperature and Humidity Indicator)
+# Glowlight | Raspberry Pi Climate Monitoring System
 
 ## Overview
 This project is an LED color-changing lamp that responds to changes in temperature and humidity using a Raspberry Pi and a DHT11 sensor. The lamp serves as a visual indicator to ensure an environment stays within the desired temperature and humidity range.
